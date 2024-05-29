@@ -13,3 +13,4 @@ A simple search bar application created with Flutter and Bloc State Management.
 - Shared Preferences
 
 <img src="Simulator Screenshot - iPhone 15 Pro - 2024-05-29 at 17.25.09.png" width="200">
+<img src="Simulator Screenshot - iPhone 15 Pro - 2024-05-29 at 17.38.28.png" width="200">
